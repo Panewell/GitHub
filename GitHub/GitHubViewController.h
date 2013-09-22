@@ -5,7 +5,8 @@
 //  Created by Paul Newell on 9/22/13.
 //  Copyright (c) 2013 RVC Student. All rights reserved.
 //  Paul Newell
-//  Coment 2
+//  Comment 2
+//  Comment 3
 
 #import <UIKit/UIKit.h>
 
